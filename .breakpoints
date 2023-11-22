@@ -1,0 +1,28 @@
+{
+  "files": {
+    "coal.java": [
+      {
+        "id": "3f415c0e-6dcf-44d1-9a72-e406dd8f3649",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ],
+    "gameBase.java": [
+      {
+        "id": "e6321161-3086-40d6-8692-88cf939a9f21",
+        "line": 19,
+        "version": 170,
+        "index": 455
+      }
+    ],
+    "items.txt": [
+      {
+        "id": "5a50379a-5d46-4b96-b37f-e20efa5c015a",
+        "line": 4,
+        "version": 116,
+        "index": 36
+      }
+    ]
+  }
+}

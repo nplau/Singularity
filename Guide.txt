@@ -1,0 +1,12 @@
+Ѫ, Main Base, cannot be built, houses the people.
+Ϯ, Fuel Mine, 1 to build, extracts Fuel from \u001B[30m-\033[0m. End Game machine required to launch the Rocket. Costs 10 Tungsten.
+\033[0;90mӿ\033[0m, Saw, 2 to build, cuts down local fluora (\u001B[32mϡ\033[0m) to harvest wood. Costs 20 Ore and 10 Wood.
+Ψ, Coal Mine, 3 to build, extracts coal from \u001B[0;33m-\033[0m. Needed to build machines. Costs 30 Ore, 30 Wood and 5 Iron.
+Ɏ, Ore mine, 4 to build, extracts crude ore from \033[0;90m-\033[0m. Can be refined for rare minerals. Costs 50 Wood and 5 Iron Plating.
+ǆ, Refiner I, 5 to build, needs to be placed on flat land (\033[0;91m_\033[0m). Refines ore for common resources. Costs 100 Ore, 30 Wood and 50 Coal.
+ǅ, Refiner II, 6 to build, needs to be placed on flat land (\033[0;91m_\033[0m). Refines ore into rare resources. Costs 40 Iron Plating, 100 Basic Heat Regulators and 50 Basic Wiring Kits.
+Ǆ, Refiner III, 7 to build, needs to be placed on flat land (\033[0;91m_\033[0m). Refines ore into specialist resources. Costs 50 Steel Reinforced Plating, 100 Advanced Heat Regulators and 80 Advanced Wiring Kits.
+ţ, Fabricator I, 8 to build, needs to be placed on flat land (\033[0;91m_\033[0m). Used to craft basic components. Costs 200 Iron, 100 Copper, 200 Wood and 100 Coal.
+Ŧ, Fabricator II, 9 to build, needs to be placed on flat land (\033[0;91m_\033[0m). Used to craft advanced components. Costs 100 Basic Wiring Kits, 100 Basic Heat Regulators, 20 Steel and 15 Silver. 
+Ť, Fabricator III, 10 to build, needs to be placed on flat land (\033[0;91m_\033[0m). Used to craft rocket components. Costs 10 Diamonds, 5 Iridium, 150 Advanced Wiring Kit and 200 Advanced Heat Regulators.
+Ѧ, Rocket, 11 to build, needs to be placed on a mountain (\033[0;91m^\033[0m). Once built, the rocket can be repaired in order to escape the planet. Costs 50 Steel, 100 Wood, 10 Tungsten and 20 Iridium.
